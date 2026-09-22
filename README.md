@@ -2,6 +2,7 @@
 
 Trabajo Práctico: Sesiones de pago y webhook Stripe  
 Programación Avanzada - 2026 - FCyT
+Alumna: Mas Duarte Melina
 
 Microservicio HTTP para crear sesiones de pago con Stripe Checkout y recibir notificaciones de cobro exitoso mediante webhooks.
 
